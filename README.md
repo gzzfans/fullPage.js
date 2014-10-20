@@ -1,3 +1,5 @@
+## 全屏滚动插件--
+
 # fullPage.js
 
 ![preview](https://raw.github.com/alvarotrigo/fullPage.js/master/examples/imgs/intro.png)
